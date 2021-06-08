@@ -1,0 +1,15 @@
+C:\Users\START\source\repos\FirstGUI\FirstGUI\obj\Debug\FirstGUI.csprojAssemblyReference.cache
+C:\Users\START\source\repos\FirstGUI\FirstGUI\obj\Debug\MainWindow.g.cs
+C:\Users\START\source\repos\FirstGUI\FirstGUI\obj\Debug\App.g.cs
+C:\Users\START\source\repos\FirstGUI\FirstGUI\obj\Debug\MainWindow.baml
+C:\Users\START\source\repos\FirstGUI\FirstGUI\obj\Debug\FirstGUI.csproj.GenerateResource.cache
+C:\Users\START\source\repos\FirstGUI\FirstGUI\obj\Debug\FirstGUI.csproj.CoreCompileInputs.cache
+C:\Users\START\source\repos\FirstGUI\FirstGUI\bin\Debug\FirstGUI.exe.config
+C:\Users\START\source\repos\FirstGUI\FirstGUI\bin\Debug\FirstGUI.exe
+C:\Users\START\source\repos\FirstGUI\FirstGUI\bin\Debug\FirstGUI.pdb
+C:\Users\START\source\repos\FirstGUI\FirstGUI\obj\Debug\FirstGUI_MarkupCompile.cache
+C:\Users\START\source\repos\FirstGUI\FirstGUI\obj\Debug\FirstGUI_MarkupCompile.lref
+C:\Users\START\source\repos\FirstGUI\FirstGUI\obj\Debug\FirstGUI.g.resources
+C:\Users\START\source\repos\FirstGUI\FirstGUI\obj\Debug\FirstGUI.Properties.Resources.resources
+C:\Users\START\source\repos\FirstGUI\FirstGUI\obj\Debug\FirstGUI.exe
+C:\Users\START\source\repos\FirstGUI\FirstGUI\obj\Debug\FirstGUI.pdb
